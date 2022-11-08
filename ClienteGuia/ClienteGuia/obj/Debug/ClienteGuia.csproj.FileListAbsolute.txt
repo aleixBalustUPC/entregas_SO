@@ -1,0 +1,11 @@
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.exe.config
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.exe
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\bin\Debug\ClienteGuia.pdb
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.AssemblyReference.cache
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.SuggestedBindingRedirects.cache
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.Form1.resources
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.Properties.Resources.resources
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.GenerateResource.cache
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.csproj.CoreCompileInputs.cache
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.exe
+C:\Users\aleix\OneDrive\UNI\3er carrera\SO\entregas_SO\ClienteGuia\ClienteGuia\obj\Debug\ClienteGuia.pdb
